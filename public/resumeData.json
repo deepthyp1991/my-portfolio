@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name":"Deepthy Sharon",
+    "occupation":"Junior Web Developer",
+    "description":"Junior Web Developer",
+    "image":"profilepic.jpg",
+    "bio":"Coding was not my first IT destination. For me, achieving in milestones in testing have been important in preparing me for the coding challenges in Software development.\n Even though I earned Bachelor’s degree in Computer Science and Engineering, I never had a chance to work as a developer. I have been a software tester doing my manual testing for few years and finally made a jump to developer.\nBy working as a tester, my eyes were wide open to find bugs, aware of all process. But at end of the day, I felt dissatisfied and empty thinking that I spent the whole day testing something that someone else has developed. I was always good at problem solving and finding solutions.\nI started looking into technologies to switch to. I finally found the sweet spot in JavaScipt. As, I went on learning, I started to do small projects to get hands-on experience. Nothing teaches you better than yourown mistakes. Keep making mistakes and correcting them. That’s, how I learned.\nI got an opportunity to study React JS from ComIT, where again I got a chance to learn new language. After doing a couple of projects in Front-end, I had eagerness to learn more about back-end and Database.\nI enrolled in Full Stack development course with Lighthouse labs. With 3 months of intense training, I worked on several projects (Front-end and Back-end). Each project was a challenge that I loved to solved in a logical way.\nI try to learn and get better every day. This journey is long and full of challenges and there is no destination, only milestones.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "deepthyp1991@gmail.com",
+    "phone": "431-998-4678",
+    "address":{
+      "street":"34 Wolfe Ave.",
+      "city":"Petawawa",
+      "state":"ON",
+      "zip": "K8H 2S6"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/deepthy-sharon/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/deepthyp1991",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Lighthouse Labs",
+        "degree":"Diploma in Full Stack Development",
+        "graduated":"Febraruy 2021" 
+      },
+      {
+        "school":"Sree Buddha College of Engineering",
+        "degree":"Bachelor's degree in Computer Science",
+        "graduated":"July 2013"
+      }
+    ],
+    "work":[
+      {
+        "company":"incubator13",
+        "title":"Digital Skills Instructor ",
+        "years":"March 2021 - Present",
+        "description":"•facilitating a weekly code club that introduced 15-20 children aged 8 to 12 to programming.\n•creating lesson plans to teach material virtually to children with different levels of programming knowledge.\n•developing interactive activities such as online quizzes and presentation to keep children engaged and test understanding."
+      },
+      {
+        "company":"SkipTheDishes",
+        "title":"Operations Specialist",
+        "years":"December 2018 - August 2019",
+        "description":""
+      },
+      {
+        "company":"Spectrum Softech Solutions",
+        "title":"Software Tester",
+        "years":"April 2014 - September 2016",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"whodo",
+        "image":"whodo.jpg",
+        "url":"https://github.com/deepthyp1991/whodo"
+      },
+      {
+        "title":"scheduler",
+        
+        "image":"scheduler.jpg",
+        "url":"https://github.com/deepthyp1991/scheduler"
+      },
+      {
+        "title":"tweeter",
+        "image":"tweeter.jpg",
+        "url":"https://github.com/deepthyp1991/tweeter"
+      },
+      {
+        "title":"tinyApp",
+        "image":"tinyApp.jpg",
+        "url":"https://github.com/deepthyp1991/tinyapp"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
